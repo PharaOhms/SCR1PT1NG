@@ -1,6 +1,6 @@
 + Useful tool to convert the hexadecimal values of the /proc/net/tcp file
 + Usage :
-+ wget https://raw.githubusercontent.com/PharaOhms/SCR1PT1NG/main/Python/hexaConverter.py
++ wget https://raw.githubusercontent.com/PharaOhms/SCR1PT1NG/main/Python/HexaConverter/hexaConverter.py
 + chmod +x hexaConverter.py
 + python3 hexaConvert.py
 
