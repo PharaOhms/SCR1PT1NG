@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#hexadecimalConverter
+#Hexadecimal Converter
 
 import time
 
