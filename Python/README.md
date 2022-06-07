@@ -4,5 +4,6 @@
 + chmod +x hexaConverter.py
 + python3 hexaConvert.py
 
-![readme-hexaConverter](https://user-images.githubusercontent.com/98988642/172469348-2ef23d62-50dc-4334-8297-f380d0b39f49.png)
+![ReadMe_hexaConverter](https://user-images.githubusercontent.com/98988642/172469731-916baae1-ee48-4720-a64e-cf23af2f617b.png)
+
 
