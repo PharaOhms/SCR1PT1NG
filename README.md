@@ -1,4 +1,5 @@
 # SCR1PT1NG
-Code snippets  
+## Code snippets  
 
-<img width="1500" alt="Code_logo" src="https://user-images.githubusercontent.com/98988642/172464399-3a192aaf-db69-4190-b08c-352801a5f996.png">
+
+![scripting-logo](https://user-images.githubusercontent.com/98988642/172584789-c84d9c4e-0ff7-4b24-8b69-690a40ba8398.png)
