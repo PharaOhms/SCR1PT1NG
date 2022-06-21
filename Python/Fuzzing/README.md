@@ -1,6 +1,6 @@
 # FuzzingV1.py
 ## Usage: 
-### wget https://raw.githubusercontent.com/PharaOhms/SCR1PT1NG/main/Python/FuzzingV1/FuzzingV1.py
+### wget https://github.com/PharaOhms/SCR1PT1NG/blob/main/Python/Fuzzing/FuzzingV1.py
 ### chmod +x FuzzingV1.py
 ### python3 FuzzingV1.py
 
