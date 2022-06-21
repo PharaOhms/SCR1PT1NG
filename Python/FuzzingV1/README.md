@@ -4,4 +4,5 @@
 ### chmod +x FuzzingV1.py
 ### python3 FuzzingV1.py
 
-![fuzzingV1](https://user-images.githubusercontent.com/98988642/174855598-08742edd-3172-499b-83ae-8e4c1e570476.png)
+![FuzzingV2](https://user-images.githubusercontent.com/98988642/174891886-ea658868-d2e0-431f-900c-7e0aee607cfc.png)
+
