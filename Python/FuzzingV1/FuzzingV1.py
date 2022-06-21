@@ -45,7 +45,7 @@ def BigExtensions():
 
 ##FUZZING SUBDOMAINS WITH subdomains-top1million-20000.txt
 def SubDomains():
-    wfuzz = "wfuzz -c -w /usr/share/SecLists/Discovery/DNS/subdomains-top1million-20000.txt --hc 400,404 -t 50 "
+    wfuzz = "wfuzz -c -w /usr/share/SecLists/Discovery/DNS/subdomains-top1million-20000.txt --hc 200,400,404 -t 50 "
     target = input("\nIP Target > ")
     host = ('-H "Host: FUZZ.{}"'.format(target))
     url = "-u http://{}".format(target)
