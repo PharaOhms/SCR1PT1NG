@@ -2,9 +2,9 @@ import time
 import os
 
 def dirTreatment():
-    
-    print("\n[+]Welcome to dirTreatment v1 by @pharaohms\n")
-    file = input("\nInsert file > ")
+
+    print("[+]Welcome to dirTreatment v1 by @pharaohms.")
+    file = input("Insert file > ")
 
     command = ("bat " + (file) + " | awk '{print$9}' >> file.txt """)
     command2 = ("""bat file.txt | tr -d ' "" ',"" >> file2.txt """) 
@@ -12,9 +12,6 @@ def dirTreatment():
     command4 = ("bat Directories")
     
     delete = ("rm -r file.txt file2.txt")
-
-    message = ("\nWait a second, please!\n")
-    print(message)
 
     time.sleep(1)
     InvokeCommand = os.system(command)
