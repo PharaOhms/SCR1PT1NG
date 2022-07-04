@@ -14,7 +14,7 @@ function portDiscovery(){
 
 	echo -e "[+]Port Discovery\n"
 
-	for port in $(seq 1 65535); do
+	for port in $(seq 1 1000); do
 	        bash -c "echo ' ' > /dev/tcp/$host/$port" 2>/dev/null && echo -e "\t[*] Port $port -> Open"  &
 	done; wait
 }
