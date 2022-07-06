@@ -1,3 +1,4 @@
 # whichSystem
 
-![whichSystem](https://user-images.githubusercontent.com/98988642/177186872-1ee240c9-6d5f-4d26-a0e0-2127ee483dd9.png)
+![WHICHSYSTEM](https://user-images.githubusercontent.com/98988642/177616377-28d5695f-befc-4408-ae00-de644bd796cd.png)
+
