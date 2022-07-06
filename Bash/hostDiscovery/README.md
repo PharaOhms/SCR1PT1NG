@@ -1,2 +1,3 @@
 # hostDiscovery
-![hostDiscovery](https://user-images.githubusercontent.com/98988642/177187553-63146061-373a-42fb-a77a-40cd75d8e7c8.png)
+![HOSTDISCOVERY](https://user-images.githubusercontent.com/98988642/177615901-1e7dbc54-bbc0-4a12-a660-3c26f8e521db.png)
+
